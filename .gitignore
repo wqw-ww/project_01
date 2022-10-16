@@ -1,0 +1,5 @@
+# 忽略 index.css  这个文件
+index.css
+
+# 忽略 test目录下的全部文件
+test/
